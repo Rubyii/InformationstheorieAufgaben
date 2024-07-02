@@ -1,0 +1,4 @@
+In 1948, the promised memorandum appeared as "A Mathematical Theory of Communication", an article in two parts in the July and October issues of the Bell System Technical Journal.
+This work focuses on the problem of how best to encode the message a sender wants to transmit.
+Shannon developed information entropy as a measure of the information content in a message, which is a measure of uncertainty reduced by the message.
+In so doing, he essentially invented the field of information theory.
